@@ -1,0 +1,6 @@
+{
+  "name": "Panankayam Homemade Snacks Order Assistant",
+  "description": "Mobile-first bilingual (Malayalam and English) order assistant, human review queue, owner configuration, and 7-day trial tracker for Panankayam Homemade Snacks (PIN 679334).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
